@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523569695956",
+    "project_id": "plgg-560fa",
+    "storage_bucket": "plgg-560fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523569695956:android:875ced68c43f0e73b57f41",
+        "android_client_info": {
+          "package_name": "com.example.gg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALl_UJq21a3kdfJkT38ZgSadCZRa9QM20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
